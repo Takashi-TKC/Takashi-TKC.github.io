@@ -1,4 +1,4 @@
-@charset "UTF-8"
+@charset "UTF-8";
 
 html{
     font-size: 62.5%;
@@ -8,9 +8,8 @@ html{
 }
 
 body{
-	background: #151515;
+	background: linear-gradient(-135deg, #E4A972, #9941D8);
 	background-size: cover;
-	color: #fff;
 	text-align: center;
 	font-size: 1.4rem;
 	font-family: 'Dosis', sans-serif;
